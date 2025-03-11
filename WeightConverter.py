@@ -1,14 +1,14 @@
 import time
 while True:
     print("""
-    _____________________________________________________________
+     _____________________________________________________________
     |                                                             |
     |                     Weight Converter                        |
     |_____________________________________________________________|
     """)
     print("""
     Options:
-    1) Kiogram to gram
+    1) Kilogram to gram
     2) Gram to kilogram
     3) Pound to kilogram
     4) Kilogram to pound
