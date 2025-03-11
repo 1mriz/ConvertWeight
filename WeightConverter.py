@@ -59,7 +59,7 @@ while True:
          print("please enter a positive number")
          continue
         else:
-           print(f"{k2p} kilogram(s) in pound(s) is: {k2p / 2.204623}")
+           print(f"{k2p} kilogram(s) in pound(s) is: {k2p * 2.204623}")
            exit()
     elif convert == 5:
         g2p = float(input("Enter weight: "))
